@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+.background{
+background-image:url("gray_parchment_paper_wallpaper_texture_seamless.jpg");
+}
+
+.heading{
+background-color:white;
+height:940px;
+width:500px;
+margin-left:370px;
+position:relative;
+border-bottom:120px;
+
+
+}
+
+
+
+
+
+.styleSelect select {
+
+  width: 400px;
+  height: 34px;  
+background: transparent;
+color:grey;  
+padding: 5px;
+  font-size: 16px;
+  line-height: 1;
+  border:0px;
+  border-radius: 0;
+  -webkit-appearance: none;
+  
+}
+
+.styleSelect {
+  width: 400px;
+  height: 34px;
+  overflow: hidden;
+  background: url("imageServlet.gif") no-repeat 370px  #fff;
+  border: 2px solid grey;
+position:relative;top:-190px;left:40px;
+border-radius:7px;
+}
+
+
+
+
+.styleSelect1 select {
+color:grey;
+  width: 400px;
+  height: 34px;  
+background: transparent;
+  padding: 5px;
+  padding-right: 5px;
+  font-size: 16px;
+  line-height: 1;
+  border:0px;
+  border-radius: 0;
+  -webkit-appearance: none;
+  
+}
+
+.styleSelect1 {
+  width: 400px;
+  height: 34px;
+  overflow: hidden;
+  background: url("imageServlet.gif") no-repeat 370px  #fff;
+  border: 2px solid grey;
+position:relative;top:-170px;left:40px;
+border-radius:7px;
+}
+
+
+
+
+
